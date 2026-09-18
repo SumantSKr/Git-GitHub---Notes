@@ -71,6 +71,15 @@ Used to **save  changes to the repository**. Record changes and make them perman
 
 <img width="1460" height="184" alt="b80b12df1d1ff125526f4b6a6c1b38af47ec407eca9c856cf88d92fb50444830" src="https://github.com/user-attachments/assets/7a14b621-e2f7-49f0-ab01-be1f150c0970" />
 
+When you want to track a new folder, you first use init command to create a new repository. Then you can use add command to add the folder to the repository. After that you can use commit command to save the changes. Finally you can use push command to push the changes to github. Of course there is more to it but this is the basic flow.
+
+# Stage
+Stage is a way to tell git to track a particular file or folder. You can use the following command to stage a file:
+
+*git init*
+*git add <file> <file2>*
+*git status*
+
 # Complete Git Flow
 A complete git flow, along with pushing the code to github looks like this:
 
