@@ -130,15 +130,18 @@ A git snapshot is a point in time in the history of your code. It represents a s
 A snapshot is not an image, it's just a representation of the code at a specific point in time. Snapshot is a loose term that is used when git stores information about the code in a locally stored key-value based database. Everything is stored as an object and each object is identified by a unique hash code.
 
 **3 Musketeers of Git**
+
 The three musketeers of git are:
 
 **Commit Object**
+
 Tree Object
 Blob Object
 Commit Object
 Each commit in the project is stored in .git folder in the form of a commit object. A commit object contains the following information:
 
 **Tree Object**
+
 Parent Commit Object
 Author
 Committer
@@ -152,3 +155,6 @@ File Hash
 Parent Tree Object
 Everything is stored as key-value pairs in the tree object. The key is the file name and the value is the file hash.
 
+**Blob Object**
+
+Blob Object is present in the tree object and contains the actual file content. This is the place where the file content is stored.
