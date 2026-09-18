@@ -73,3 +73,9 @@ Used to **save  changes to the repository**. Record changes and make them perman
 
 When you want to track a new folder, you first use init command to create a new repository. Then you can use add command to add the folder to the repository. After that you can use commit command to save the changes. Finally you can use push command to push the changes to github. Of course there is more to it but this is the basic flow.
 
+# Complete Git Flow
+A complete git flow, along with pushing the code to github looks like this:
+
+<img width="2920" height="2041" alt="9b7ee99d7c8c673847d56bd2573cc8de89d8b0bb0a0068efae66cfaebcf28ae7" src="https://github.com/user-attachments/assets/23d2dd9a-e515-4ae2-84f7-c1014677040c" />
+
+When you want to track a new folder, you first use init command to create a new repository. Then you can use add command to add the folder to the repository. After that you can use commit command to save the changes. Finally you can use push command to push the changes to github. Of course there is more to it but this is the basic flow.
