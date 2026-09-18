@@ -80,6 +80,8 @@ Stage is a way to tell git to track a particular file or folder. You can use the
 *git add <file> <file2>*
 *git status*
 
+Here we are initializing the repository and adding a file to the repository. Then we can see that the file is now being tracked by git. Currently our files are in staging area, this means that we have not yet committed the changes but are ready to be committed.
+
 # Complete Git Flow
 A complete git flow, along with pushing the code to github looks like this:
 
@@ -89,8 +91,3 @@ Here we are initializing the repository and adding a file to the repository. The
 
 <img width="2920" height="2041" alt="9b7ee99d7c8c673847d56bd2573cc8de89d8b0bb0a0068efae66cfaebcf28ae7" src="https://github.com/user-attachments/assets/d0769542-f971-4201-afc4-b3d0a831130c" />
 
-
-When you want to track a new folder, you first use init command to create a new repository. Then you can use add command to add the folder to the repository. After that you can use commit command to save the changes. Finally you can use push command to push the changes to github. Of course there is more to it but this is the basic flow.
-
-# Stage
-Stage is a way to tell git to track a particular file or folder. You can use the following command to stage a file:
