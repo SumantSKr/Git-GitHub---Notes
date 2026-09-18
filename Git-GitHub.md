@@ -1,13 +1,17 @@
 # Git-GitHub---Notes
 Git and GitHub Notes
+
 # What is Git
 Git is a version control system that is used to track changes to your files. It is a free and open-source software that is available for Windows, macOS, and Linux. Remember, GIT is a software and can be installed on your computer.
+
 # What is GitHub
 Github is a web-based hosting service for Git repositories. Github is an online platform that allows you to store and share your code with others. It is a popular platform for developers to collaborate on projects and to share code. It is not that Github is the only provider of Git repositories, but it is one of the most popular ones.
+
 # Version Control System
 Version control systems are used to manage the history of your code. They allow you to track changes to your files and to collaborate with others. Version control systems are essential for software development. Consider version control as a checkpoint in game. You can move to any time in the game and you can always go back to the previous checkpoint. This is the same concept in software development.
 
 Before Git became mainstream, version control systems were used by developers to manage their code. They were called SCCS (Source Code Control System). SCCS was a proprietary software that was used to manage the history of code. It was expensive and not very user-friendly. Git was created to replace SCCS and to make version control more accessible and user-friendly. Some commong version control systems are Subversion (SVN), CVS, and Perforce.
+
 # Learning Journey
 **Git and Github are need of us for storing the code history.**
 We will go in this jounney something like this:
@@ -39,3 +43,30 @@ There is a difference between a software on your system vs tracking a particular
 **Checking Status**
 
 *Git --status*
+
+# configuration Settings
+Github has a lot of settings that you can change. You can change your username, email and other settings. Whenever you checkpoint your changes, git will add some information about your such as your username and email to the commit. There is a git config file that stores all the settings that you have changed. You can make settings like what editor you would like to use etc. There are some global settings and some repository specific settings.
+
+Let's setup your email and username in this config file. I would recommend you to create an account on github and then use the email and username that you have created.
+
+*git config --global user.email "your-email@example.com"*
+*git config --global user.name "Your Name"*
+
+Now you can check your config settings:
+
+*git config --list*
+
+This will show you all the settings that you have changed.
+
+# Creating a Repository
+Creating a repository is a process of creating a new folder on your system and initializing it as a git repository. It's just regular folder to code your project, you are just asking git to track it. To create a repository, you can use the following command:
+
+*git status*
+*git init*
+
+**git status** command will show you the current state of your repository. **git init** command will create a new folder on your system and initialize it as a git repository. This adds a hidden .git folder to your project.
+
+# Commit
+Used to **save  changes to the repository**. Record changes and make them permanent. 
+
+<img width="2920" height="368" alt="b80b12df1d1ff125526f4b6a6c1b38af47ec407eca9c856cf88d92fb50444830" src="https://github.com/user-attachments/assets/7a14b621-e2f7-49f0-ab01-be1f150c0970" />
