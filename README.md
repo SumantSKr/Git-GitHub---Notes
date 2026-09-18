@@ -22,7 +22,7 @@ Learn more
 To install Git, you can use command line or you can visit official website and download the installer for your operating system. Git is available for Windows, macOS, and Linux and is available at https://git-scm.com/downloads.
 
 # Create an account on GitHub
-Go to https://github.com and create an account just like you create on other social media or some app. Just click on Sign Up and fill in the details and done!
+Go to https://www.github.com and create an account just like you create on other social media or some app. Just click on Sign Up and fill in the details and done!
 
 # Checking the Git Version on your Computer
-Once you downloaded the Git on your computer you are ready to work with Git ( Version Control System ). As a first command you can type git --version to check the version of git on your computer.
+Once you downloaded the Git on your computer you are ready to work with Git ( Version Control System ). As a first command you can type **git --version** to check the version of git on your computer.
