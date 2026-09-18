@@ -33,3 +33,6 @@ A repository is a collection of files and directories that are stored together. 
 There is a difference between a software on your system vs tracking a particular folder on your system. At any point you can run the following command to see the current state of your repository:
 
 <img width="300" height="217" alt="77634739ccd84c4a9887b1829d7212b04d8157bacfe6048d7174bd351d03ea23" src="https://github.com/user-attachments/assets/d2a4be58-cf61-4bf1-a8b6-0d4cbe9ae49e" />
+
+*/Checking Status/*
+**Git --status**
