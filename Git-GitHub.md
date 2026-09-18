@@ -70,3 +70,8 @@ Creating a repository is a process of creating a new folder on your system and i
 Used to **save  changes to the repository**. Record changes and make them permanent. 
 
 <img width="2920" height="368" alt="b80b12df1d1ff125526f4b6a6c1b38af47ec407eca9c856cf88d92fb50444830" src="https://github.com/user-attachments/assets/7a14b621-e2f7-49f0-ab01-be1f150c0970" />
+
+# Complete Git Flow
+A complete git flow, along with pushing the code to github looks like this:
+
+<img width="2920" height="2041" alt="9b7ee99d7c8c673847d56bd2573cc8de89d8b0bb0a0068efae66cfaebcf28ae7" src="https://github.com/user-attachments/assets/d0769542-f971-4201-afc4-b3d0a831130c" />
