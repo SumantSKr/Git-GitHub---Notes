@@ -31,4 +31,4 @@ Once you downloaded the Git on your computer you are ready to work with Git ( Ve
 A repository is a collection of files and directories that are stored together. It is a way to store and manage your code. A repository is like a folder on your computer, but it is more than just a folder. It can contain other files, folders, and even other repositories. You can think of a repository as a container that holds all your code.
 
 # 
-<img width="3001" height="2171" alt="77634739ccd84c4a9887b1829d7212b04d8157bacfe6048d7174bd351d03ea23" src="https://github.com/user-attachments/assets/d2a4be58-cf61-4bf1-a8b6-0d4cbe9ae49e" />
+<img width="300" height="217" alt="77634739ccd84c4a9887b1829d7212b04d8157bacfe6048d7174bd351d03ea23" src="https://github.com/user-attachments/assets/d2a4be58-cf61-4bf1-a8b6-0d4cbe9ae49e" />
