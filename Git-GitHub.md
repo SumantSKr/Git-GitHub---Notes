@@ -158,3 +158,6 @@ Everything is stored as key-value pairs in the tree object. The key is the file 
 **Blob Object**
 
 Blob Object is present in the tree object and contains the actual file content. This is the place where the file content is stored.
+
+<img width="3083" height="1557" alt="abf2cd837b2789df500a8e4beef18e5f674960ef5966b35e78a11a697890a87a" src="https://github.com/user-attachments/assets/028489b5-4483-4005-81b7-7eaf6c32b94a" />
+
