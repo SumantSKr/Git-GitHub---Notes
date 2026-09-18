@@ -115,6 +115,9 @@ You can change the default code editor in your system to vscode. To do this, you
 Gitignore is a file that tells git which files and folders to ignore. It is a way to prevent git from tracking certain files or folders. You can create a gitignore file and add list of files and folders to ignore by using the following command:
 
 *// .gitignore
+
 node_modules
+
 .env
+
 .vscode*
