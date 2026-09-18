@@ -25,7 +25,7 @@ To install Git, you can use command line or you can visit official website and d
 Go to https://www.github.com and create an account just like you create on other social media or some app. Just click on Sign Up and fill in the details and done!
 
 # Checking the Git Version on your Computer
-Once you downloaded the Git on your computer you are ready to work with Git ( Version Control System ). As a first command you can type *git --version* to check the version of git on your computer.
+Once you downloaded the Git on your computer you are ready to work with Git ( Version Control System ). As a first command you can type <font color="Blue">*git --version* </font> to check the version of git on your computer.
 
 # Repository
 A repository is a collection of files and directories that are stored together. It is a way to store and manage your code. A repository is like a folder on your computer, but it is more than just a folder. It can contain other files, folders, and even other repositories. You can think of a repository as a container that holds all your code.
@@ -36,4 +36,4 @@ There is a difference between a software on your system vs tracking a particular
 
 **Checking Status**
 
-*Git --status*
+<font color="blue">*Git --status*</font>
