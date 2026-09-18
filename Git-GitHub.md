@@ -89,3 +89,4 @@ Here we are initializing the repository and adding a file to the repository. The
 
 <img width="2920" height="2041" alt="9b7ee99d7c8c673847d56bd2573cc8de89d8b0bb0a0068efae66cfaebcf28ae7" src="https://github.com/user-attachments/assets/d0769542-f971-4201-afc4-b3d0a831130c" />
 
+When you want to track a new folder, you first use init command to create a new repository. Then you can use add command to add the folder to the repository. After that you can use commit command to save the changes. Finally you can use push command to push the changes to github. Of course there is more to it but this is the basic flow.
