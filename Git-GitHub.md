@@ -91,3 +91,5 @@ Here we are initializing the repository and adding a file to the repository. The
 
 
 When you want to track a new folder, you first use init command to create a new repository. Then you can use add command to add the folder to the repository. After that you can use commit command to save the changes. Finally you can use push command to push the changes to github. Of course there is more to it but this is the basic flow.
+
+# Stage
