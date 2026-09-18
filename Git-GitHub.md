@@ -121,3 +121,5 @@ Gitignore is a file that tells git which files and folders to ignore. It is a wa
 *.env*
 
 *.vscode*
+
+Now, when you run the git status command, it will not show the node_modules and .vscode folders as being tracked by git.
