@@ -165,13 +165,16 @@ Blob Object is present in the tree object and contains the actual file content. 
 
 Here are some helpful commands that you can use to explore the git internals:
 
-git show -s --pretty=raw <commit-hash>
+*git show -s --pretty=raw <commit-hash>*
+
 Grab tree id from the above command and use it in the following command to get the tree object:
 
-git ls-tree <tree-id>
+*git ls-tree <tree-id>*
+
 Grab tree id from the above command and use it in the following command to get the blob object:
 
-git show <blob-id>
+*git show <blob-id>*
+
 Grab tree id from the above command and use it in the following command to get the commit object:
 
-git cat-file -p <commit-id>
+*git cat-file -p <commit-id>*
