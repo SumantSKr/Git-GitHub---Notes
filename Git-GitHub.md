@@ -50,6 +50,7 @@ Github has a lot of settings that you can change. You can change your username, 
 Let's setup your email and username in this config file. I would recommend you to create an account on github and then use the email and username that you have created.
 
 *git config --global user.email "your-email@example.com"*
+
 *git config --global user.name "Your Name"*
 
 Now you can check your config settings:
